@@ -1,4 +1,4 @@
 # atospoc
 # PoC
-# First hello app for testing purpose.
-# Test 4!
+# First hello app for demonstration.
+# 
